@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(102,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(109,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(208,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(209,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(213,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(214,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(215,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(216,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(377,28): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(386,28): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(388,29): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(411,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(415,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(730,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(891,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\ProjectCore\main.cpp(892,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ProjectCore.vcxproj -> C:\Users\prico\OneDrive\Desktop\Faculta\PG\ProiectFinal\ProjectCore\x64\Debug\ProjectCore.exe

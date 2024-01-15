@@ -1,0 +1,902 @@
+# Blender 4.0.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl 10446_Palm_Tree_v1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.003
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.004
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.005
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.006
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.007
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.008
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.009
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.010
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.011
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.012
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.013
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.014
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.015
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.016
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.017
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl 10446_Palm_Tree_v1.018
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd 10446_Palm_Tree_v1_L3.123c0a37e64c-4659-4136-a23d-059cbcde3ecd/10446_Palm_Tree_v1_Diffuse.jpg
+
+newmtl Arch_Small___Base.001
+Ns 752.599915
+Ka 1.000000 1.000000 1.000000
+Ks 0.812000 0.812000 0.812000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SmallArch_Obj/cliff.jpg
+
+newmtl Cap_03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/Cap_03.tga
+map_d OBJ/OBJ/Cap_03.tga
+map_Bump OBJ/OBJ/Cap_03_Normal.tga -bm 1
+
+newmtl Cap_03.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/Cap_03.tga
+map_d OBJ/OBJ/Cap_03.tga
+map_Bump OBJ/OBJ/Cap_03_Normal.tga -bm 1
+
+newmtl Cap_03.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/Cap_03.tga
+map_d OBJ/OBJ/Cap_03.tga
+map_Bump OBJ/OBJ/Cap_03_Normal.tga -bm 1
+
+newmtl CoconutPalmBark
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/Palmetto_bark_2.png
+map_d OBJ/OBJ/Palmetto_bark_2.png
+map_Bump OBJ/OBJ/Palmetto_bark_2_Normal.png -bm 1
+
+newmtl CoconutPalmBark.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/Palmetto_bark_2.png
+map_d OBJ/OBJ/Palmetto_bark_2.png
+map_Bump OBJ/OBJ/Palmetto_bark_2_Normal.png -bm 1
+
+newmtl CoconutPalmBark.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/Palmetto_bark_2.png
+map_d OBJ/OBJ/Palmetto_bark_2.png
+map_Bump OBJ/OBJ/Palmetto_bark_2_Normal.png -bm 1
+
+newmtl CoconutPalmClip
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/CoconutPalmClip.tga
+map_d OBJ/OBJ/CoconutPalmClip.tga
+map_Bump OBJ/OBJ/CoconutPalmClip_Normal.tga -bm 1
+
+newmtl CoconutPalmClip.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/CoconutPalmClip.tga
+map_d OBJ/OBJ/CoconutPalmClip.tga
+map_Bump OBJ/OBJ/CoconutPalmClip_Normal.tga -bm 1
+
+newmtl CoconutPalmClip.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/CoconutPalmClip.tga
+map_d OBJ/OBJ/CoconutPalmClip.tga
+map_Bump OBJ/OBJ/CoconutPalmClip_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_1
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_1.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_1_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_1.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_1_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_1.001
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_1.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_1_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_1.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_1_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_1.002
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_1.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_1_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_1.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_1_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_2
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_2.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_2_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_2.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_2_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_2.001
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_2.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_2_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_2.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_2_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_2.002
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_2.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_2_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_2.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_2_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_3
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_3.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_3_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_3.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_3_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_3.001
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_3.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_3_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_3.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_3_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_3.002
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_3.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_3_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_3.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_3_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_4
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_4.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_4_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_4.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_4_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_4.001
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_4.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_4_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_4.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_4_Normal.tga -bm 1
+
+newmtl CoconutPalmLeaflet_4.002
+Ns 64.000023
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/CoconutPalmLeaflet_4.tga
+map_Ks OBJ/OBJ/CoconutPalmLeaflet_4_Spec.tga
+map_d OBJ/OBJ/CoconutPalmLeaflet_4.tga
+map_Bump OBJ/OBJ/CoconutPalmLeaflet_4_Normal.tga -bm 1
+
+newmtl CoconutSkin
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/CoconutSkin.tga
+map_d OBJ/OBJ/CoconutSkin.tga
+map_Bump OBJ/OBJ/CoconutSkin_Normal.tga -bm 1
+
+newmtl CoconutSkin.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/CoconutSkin.tga
+map_d OBJ/OBJ/CoconutSkin.tga
+map_Bump OBJ/OBJ/CoconutSkin_Normal.tga -bm 1
+
+newmtl CoconutSkin.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd OBJ/OBJ/CoconutSkin.tga
+map_d OBJ/OBJ/CoconutSkin.tga
+map_Bump OBJ/OBJ/CoconutSkin_Normal.tga -bm 1
+
+newmtl FrondStem
+Ns 51.400002
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/Stem_3.png
+map_Ks OBJ/OBJ/Stem_3_Gloss.png
+map_d OBJ/OBJ/Stem_3.png
+map_Bump OBJ/OBJ/Stem_3_Normal.png -bm 1
+
+newmtl FrondStem.001
+Ns 51.400002
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/Stem_3.png
+map_Ks OBJ/OBJ/Stem_3_Gloss.png
+map_d OBJ/OBJ/Stem_3.png
+map_Bump OBJ/OBJ/Stem_3_Normal.png -bm 1
+
+newmtl FrondStem.002
+Ns 51.400002
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd OBJ/OBJ/Stem_3.png
+map_Ks OBJ/OBJ/Stem_3_Gloss.png
+map_d OBJ/OBJ/Stem_3.png
+map_Bump OBJ/OBJ/Stem_3_Normal.png -bm 1
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Water.jpg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd beach-sand.jpg
+
+newmtl Material.007
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Boat/wood1.jpg
+
+newmtl Material.008
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Boat/wood2.jpg
+
+newmtl Material.009
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Boat/wood3.jpg
+
+newmtl Material.010
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Boat/wood3.jpg
+
+newmtl Material.011
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Boat/wood2.jpg
+
+newmtl Material.012
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Boat/wood1.jpg
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd alb.png
+
+newmtl Material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd alb.png
+
+newmtl Material.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 4w0tjxp6ojpc-old_lantern_pbr/lantern_Base_Color.jpg
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd alb.png
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd alb.png
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 4w0tjxp6ojpc-old_lantern_pbr/lantern_Base_Color.jpg
+
+newmtl _HSM0048_umbrella_tanHSM0048_umbrella_tan
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd umbrella/HSM0048_v2_L1.123cb5a96d7c-1fae-4e51-84b8-6fe9a98f2084/HSM0048_umbrella_tan.jpg
+
+newmtl dirty_wood.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd reed_hut/export/materials used/sticks_basecolor.png
+
+newmtl lambert3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert3SG.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/VL1X8_002.png
+
+newmtl lambert4SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl lambert4SG.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Palm/Palm_01/stalk_003_gradient.jpg
+
+newmtl phongE1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd campfire_model/rocks_diffuse.jpg
+map_Ks campfire_model/rocks_specular.jpg
+map_Bump campfire_model/rocks_normal.jpg -bm 1
+
+newmtl phongE3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd campfire_model/woodsground_diffuse.jpg
+map_Ks campfire_model/woodsground_specular.jpg
+map_Bump campfire_model/woodsground_normal.jpg -bm 1
+
+newmtl phongE4SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd campfire_model/utensilrope_diffuse.jpg
+map_Ks campfire_model/utensilrope_specular.jpg
+map_Bump campfire_model/utensilrope_normal.jpg -bm 1
+
+newmtl red_dirty_wood.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd reed_hut/export/materials used/roof_basecolor.png
+
+newmtl wire_088088225
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd deck chair/Red-Concrete-Stripes.jpg
+
+newmtl wire_088088225.001
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd deck chair/Red-Concrete-Stripes.jpg
+
+newmtl wire_204204204
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SHIP2_2_1001_Diffuse.png
+
+newmtl wire_204204204.003
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.350000 0.350000 0.350000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd SHIP2_2_1001_Diffuse.png
